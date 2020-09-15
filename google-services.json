@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "188775872871",
+    "firebase_url": "https://newsletter-c4242.firebaseio.com",
+    "project_id": "newsletter-c4242",
+    "storage_bucket": "newsletter-c4242.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188775872871:android:cc143ff6536046d56897c2",
+        "android_client_info": {
+          "package_name": "com.newsletter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188775872871-h2k6v9vfhra71f2jnuj2r15coganl3cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYqQPwVG4QkWQbzRdwdSxacjvVRUvBt5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188775872871-h2k6v9vfhra71f2jnuj2r15coganl3cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
